@@ -1,1 +1,0 @@
-/home/sob/projects/tmp/cargo-vendor-test/test1/rust/test1/target/debug/libtest1.rlib: /home/sob/projects/tmp/cargo-vendor-test/test1/rust/test1/build.rs /home/sob/projects/tmp/cargo-vendor-test/test1/rust/test1/src/lib.rs
